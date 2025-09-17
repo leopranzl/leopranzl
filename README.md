@@ -24,9 +24,9 @@
 
 ## 📚 Certifications
 - ANBIMA Série 20  
-- HarvardX – CS50’s Introduction to AI with Python  
-- Several courses in Java, Python, JavaScript, HTML/CSS, and Git/GitHub  
-
+- HarvardX – CS50’s Introduction to AI with Python
+- Hackerrank Java Basics  
+- Several courses in Java, Python, JavaScript, HTML/CSS, and Git/GitHub
 ---
 
 ## 🌍 Languages
@@ -42,4 +42,4 @@
 
 ---
 
-⚡ **Fun fact**: at 16 I earned the **ANBIMA Professional Certification** and ranked **1st place in mathematics** in the entrance exam for *Colégio Pedro II*!  
+⚡ **Fun fact**: At 16, I earned the **ANBIMA Professional Certification** and ranked **1st in mathematics** in the entrance exam for *Colégio Pedro II*. Later, I was honored with the award for **best academic performance** in my third year.
